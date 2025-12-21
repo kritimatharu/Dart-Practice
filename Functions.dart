@@ -114,3 +114,20 @@
 // void main() {
 //   countVowels("this is vowel counting");
 // }
+
+//Write a function that takes an integer and prints whether it is positive or negative.
+// void checkNumber(int number) {
+//   if (number > 0) {
+//     print('$number is positive.');
+//   } else if (number < 0) {
+//     print('$number is negative.');
+//   } else {
+//     print('The number is zero.');
+//   }
+// }
+
+// void main() {
+//   checkNumber(10); 
+//   checkNumber(-5);  
+//   checkNumber(0);   
+// }
